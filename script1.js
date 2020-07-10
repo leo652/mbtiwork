@@ -36,7 +36,7 @@ function resultFunction(){
 
   if(type==mbti[0]){
 
-  location.herf="/mbti_job/page2.html";
+  location.herf="https://mbtiwork.ga/page2";
 
 }
   else {
