@@ -36,7 +36,7 @@ function resultFunction(){
 
   if(type==mbti[0]){
 
-  location.herf="https://mbtiwork.ga/page2";
+  location.href="https://mbtiwork.ga/page2";
 
 }
   else {
