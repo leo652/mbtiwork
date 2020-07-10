@@ -36,8 +36,7 @@ function resultFunction(){
 
   if(type==mbti[0]){
 
-  location.href="https://mbtiwork.ga/page2";
-
+  location.href="https://mbtiwork.ga/resultes/istj";
 }
   else {
     document.getElementById("demo").innerHTML = "Hello World";
